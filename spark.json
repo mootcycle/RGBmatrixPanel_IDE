@@ -1,8 +1,8 @@
 {
 	"name": "RGBmatrixPanel",
-	"author": "Adafruit, Paul Kourany",
+	"author": "Adafruit, Paul Kourany, Dan Hummon",
 	"license": "BSD license",
 	"version": "1.0.1",
-	"description": "Adafruit 16x32 & 32x32 RGB matrix Panel library for Spark",
-	"namespace": "RGBmatrixPanel"
+	"description": "Adafruit 16x32 & 32x32 RGB matrix Panel library for Spark with dependencies added",
+	"namespace": "RGBmatrixPanelMashup"
 }
